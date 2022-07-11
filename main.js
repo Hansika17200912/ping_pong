@@ -1,5 +1,5 @@
 
-/*created by prashant shukla */
+/*created by Hansika */
 
 var paddle2 =10,paddle1=10;
 
